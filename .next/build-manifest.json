@@ -1,25 +1,37 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_4ea2afc4465886c71d08.js"
-  ],
+  "devFiles": [],
   "pages": {
     "/": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-8ed9452df514b4d17d80.js",
+      "static/chunks/commons.a7f5986e6b68b382ceeb.js",
+      "static/runtime/main-3ec30be1e3d4f8308a5e.js"
     ],
     "/_app": [
-      "static/runtime/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-8ed9452df514b4d17d80.js",
+      "static/chunks/commons.a7f5986e6b68b382ceeb.js",
+      "static/css/styles.40e5f98f.chunk.css",
+      "static/chunks/styles.c0adb9e7404e8e69100f.js",
+      "static/runtime/main-3ec30be1e3d4f8308a5e.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-8ed9452df514b4d17d80.js",
+      "static/chunks/commons.a7f5986e6b68b382ceeb.js",
+      "static/runtime/main-3ec30be1e3d4f8308a5e.js"
+    ],
+    "/annotated-layout": [
+      "static/runtime/webpack-8ed9452df514b4d17d80.js",
+      "static/chunks/commons.a7f5986e6b68b382ceeb.js",
+      "static/runtime/main-3ec30be1e3d4f8308a5e.js"
+    ],
+    "/edit-products": [
+      "static/runtime/webpack-8ed9452df514b4d17d80.js",
+      "static/chunks/commons.a7f5986e6b68b382ceeb.js",
+      "static/runtime/main-3ec30be1e3d4f8308a5e.js"
     ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-8ed9452df514b4d17d80.js",
+      "static/chunks/commons.a7f5986e6b68b382ceeb.js",
+      "static/runtime/main-3ec30be1e3d4f8308a5e.js"
     ]
   }
 }
